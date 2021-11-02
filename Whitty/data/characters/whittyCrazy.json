@@ -1,0 +1,38 @@
+{
+    "name": "Whitty (Crazy)",
+    "asset": "characters/WhittyCrazy",
+    "barColor": "#ff0000",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Whitty idle dance",
+        "looped": true,
+        "offsets": [50]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Whitty Sing Note LEFT",
+        "looped": true,
+        "offsets": [50]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "whitty sing note right",
+        "looped": true,
+        "offsets": [100, -75]
+      },
+      {
+        "name": "Whitty Sing Note UP",
+        "prefix": "Sing Up",
+        "looped": true,
+        "offsets": [50, 85]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Whitty Sing Note DOWN",
+        "looped": true,
+        "offsets": [75, -150]
+      }
+    ]
+  }

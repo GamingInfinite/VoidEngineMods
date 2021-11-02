@@ -1,0 +1,44 @@
+{
+  "name": "Selever",
+  "asset": "characters/selever_sheet",
+  "barColor": "#972851",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "SelIdle",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "SelLeft",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "SelRight",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "SelUp",
+      "looped": false,
+      "offsets": [0, -6]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "SelDown",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "hey",
+      "prefix": "SelHey",
+      "looped": false,
+      "offsets": [0, 0]
+    }
+  ]
+}

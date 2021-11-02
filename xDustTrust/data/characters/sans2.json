@@ -1,0 +1,38 @@
+{
+    "name": "Sans (Damaged)",
+    "asset": "characters/sans2",
+    "barColor": "#ff0000",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "idle",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "left",
+        "looped": true,
+        "offsets": [-10, 10]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "right",
+        "looped": true,
+        "offsets": [0, 27]
+      },
+      {
+        "name": "singUP",
+        "prefix": "up",
+        "looped": true,
+        "offsets": [-6, 50]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "down",
+        "looped": true,
+        "offsets": [0, -30]
+      }
+    ]
+  }

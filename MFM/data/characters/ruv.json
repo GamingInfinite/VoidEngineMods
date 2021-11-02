@@ -1,0 +1,39 @@
+{
+    "name": "Ruv",
+    "asset": "characters/ruv_sheet",
+    "barColor": "#9a8ca4",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "RuvIdle",
+        "looped": false,
+        "offsets":[0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "RuvLeft",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "RuvRight",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "RuvUp",
+        "looped": false,
+        "offsets": [0, -6]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "RuvDown",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

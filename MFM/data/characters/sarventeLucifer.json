@@ -1,0 +1,39 @@
+{
+    "name": "Sarvente (Lucifer)",
+    "asset": "characters/smokinhotbabe",
+    "barColor": "#d3347d",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "LuciferSarvIdle",
+        "looped": false,
+        "offsets":[0, 198]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "LuciferSarvLeft",
+        "looped": false,
+        "offsets": [20, 180]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "LuciferSarvRight",
+        "looped": false,
+        "offsets": [-30, 190]
+      },
+      {
+        "name": "singUP",
+        "prefix": "LuciferSarvUp",
+        "looped": false,
+        "offsets": [1, 190]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "LuciferSarvDown",
+        "looped": true,
+        "offsets": [0, 150]
+      }
+    ]
+  }
+  

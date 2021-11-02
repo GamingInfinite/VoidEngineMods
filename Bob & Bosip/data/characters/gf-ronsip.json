@@ -1,0 +1,26 @@
+{
+  "name": "Ronsip (GF)",
+  "asset": "characters/GF_ANDRONCOOLGUYONSPEAKEROHMYGODHEISSOCOOL",
+  "barColor": "#FFebdd44",
+  "startingAnim": "danceRight",
+  "animations": [
+    {
+      "name": "sad",
+      "prefix": "gf sad",
+      "looped": false,
+      "offsets": [-559, -715]
+    },
+    {
+      "name": "danceLeft",
+      "prefix": "GF Dancing Beat Left",
+      "looped": false,
+      "offsets": [0]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "GF Dancing Beat Right",
+      "looped": false,
+      "offsets": [0]
+    }
+  ]
+}

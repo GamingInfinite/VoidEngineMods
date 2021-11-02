@@ -1,0 +1,38 @@
+{
+    "name": "Tricky (Expurgation)",
+    "asset": "characters/exTricky",
+    "barColor": "#ff0000",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Idle",
+        "looped": true,
+        "offsets": []
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Sing Left",
+        "looped": true,
+        "offsets": [127, 20]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Sing Right",
+        "looped": true,
+        "offsets": [-209, -29]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Sing Up",
+        "looped": true,
+        "offsets": [0, 100]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Sing Down",
+        "looped": true,
+        "offsets": [-100, -340]
+      }
+    ]
+  }

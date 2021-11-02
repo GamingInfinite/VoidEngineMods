@@ -1,0 +1,32 @@
+{
+  "name": "Girlfriend Standing",
+  "asset": "characters/GF_Standing_Sway",
+  "barColor": "#ff0000",
+  "startingAnim": "danceRight",
+  "animations": [
+    {
+      "name": "sad",
+      "prefix": "Sad",
+      "looped": false,
+      "offsets": [-140, -153]
+    },
+    {
+      "name": "danceLeft",
+      "prefix": "Idle Left",
+      "looped": false,
+      "offsets": [-140, -153]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "Idle Right",
+      "looped": false,
+      "offsets": [-140, -153]
+    },
+    {
+      "name": "scared",
+      "prefix": "Scared",
+      "looped": false,
+      "offsets": [-140, -153]
+    }
+  ]
+}

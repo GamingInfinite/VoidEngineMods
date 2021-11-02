@@ -1,0 +1,38 @@
+{
+  "name": "Sarvente (Dark)",
+  "asset": "characters/sarvente_dark",
+  "barColor": "#f193c7",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "SarvDarkIdle",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "SarvDarkLeft",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "SarvDarkRight",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "SarvDarkUp",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "SarvDarkDown",
+      "looped": false,
+      "offsets": [0, 0]
+    }
+  ]
+}

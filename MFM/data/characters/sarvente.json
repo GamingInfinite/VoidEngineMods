@@ -1,0 +1,44 @@
+{
+  "name": "Sarvente",
+  "asset": "characters/sarvente_sheet",
+  "barColor": "#f193c7",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "SarventeIdle",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "SarventeLeft",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "SarventeRight",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "SarventeUp",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "SarventeDown",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "hey",
+      "prefix": "SarventeHey",
+      "looped": false,
+      "offsets": [0, 0]
+    }
+  ]
+}
