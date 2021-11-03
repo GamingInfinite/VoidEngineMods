@@ -1,0 +1,14 @@
+{
+    "name": "GF Stand (Enmity)",
+    "asset": "characters/GFstand2",
+    "barColor": "#ff0000",
+    "startingAnim": "danceLeft",
+    "animations": [
+      {
+        "name": "danceLeft",
+        "prefix": "GF Dancing Beat",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
