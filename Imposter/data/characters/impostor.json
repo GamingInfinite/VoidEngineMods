@@ -6,33 +6,33 @@
     "animations": [
       {
         "name": "idle",
-        "prefix": "Idle",
+        "prefix": "impostor idle",
         "looped": true,
         "offsets": [0, 0]
       },
       {
         "name": "singLEFT",
-        "prefix": "Sing Left",
+        "prefix": "impostor left",
         "looped": true,
-        "offsets": [-10, 10]
+        "offsets": [0, 0]
       },
       {
         "name": "singRIGHT",
-        "prefix": "Sing Right",
+        "prefix": "impostor right",
         "looped": true,
-        "offsets": [0, 27]
+        "offsets": [0, 0]
       },
       {
         "name": "singUP",
-        "prefix": "Sing Up",
+        "prefix": "impostor up",
         "looped": true,
-        "offsets": [-6, 50]
+        "offsets": [0, 0]
       },
       {
         "name": "singDOWN",
-        "prefix": "Sing Down",
+        "prefix": "impostor left",
         "looped": true,
-        "offsets": [0, -30]
+        "offsets": [0, 0]
       }
     ]
   }

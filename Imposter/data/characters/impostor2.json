@@ -7,31 +7,32 @@
     {
       "name": "idle",
       "prefix": "impostor idle",
-      "looped": false
+      "looped": false,
+      "offsets": [0, -400]
     },
     {
       "name": "singLEFT",
       "prefix": "impostor left",
       "looped": false,
-      "offsets": [113, -6]
+      "offsets": [113, -406]
     },
     {
       "name": "singRIGHT",
       "prefix": "impostor right",
       "looped": false,
-      "offsets": [-36, 13]
+      "offsets": [-36, -387]
     },
     {
       "name": "singUP",
       "prefix": "impostor up2",
       "looped": false,
-      "offsets": [-25, 54]
+      "offsets": [-25, -346]
     },
     {
       "name": "singDOWN",
       "prefix": "impostor down",
       "looped": false,
-      "offsets": [-28, -17]
+      "offsets": [-28, -417]
     }
   ]
 }

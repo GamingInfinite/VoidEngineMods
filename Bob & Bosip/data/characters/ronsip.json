@@ -14,25 +14,25 @@
       "name": "singLEFT",
       "prefix": "RON_LEFT",
       "looped": false,
-      "offsets": [600, 220]
+      "offsets": [600, 120]
     },
     {
       "name": "singRIGHT",
       "prefix": "RON_RIGHT",
       "looped": false,
-      "offsets": [-30, -50]
+      "offsets": [-30, -150]
     },
     {
       "name": "singUP",
       "prefix": "RON_UP",
       "looped": false,
-      "offsets": [-20, -50]
+      "offsets": [-20, -150]
     },
     {
       "name": "singDOWN",
       "prefix": "RON_DOWN",
       "looped": true,
-      "offsets": [160, -180]
+      "offsets": [160, -280]
     }
   ]
 }
