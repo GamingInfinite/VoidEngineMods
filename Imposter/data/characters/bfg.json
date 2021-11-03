@@ -2,6 +2,7 @@
   "name": "Boyfriend (Ghost)",
   "asset": "characters/bfghost",
   "barColor": "#7BD6F6",
+  "flipX": true,
   "startingAnim": "idle",
   "animations": [
     {
