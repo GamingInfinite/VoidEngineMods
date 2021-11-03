@@ -19,4 +19,4 @@ This is for both my ports and actual mod projects of my own, for when I make the
 ## Downloads
 Mod Name | Last Updated | Downloads
 ---------|--------------|----------
-Template|Template|Template
+Mid-Fight Masses|11/2/2021 12:29 AM|[![Download]]https://downgit.github.io/#/home?url=https://github.com/GamingInfinite/KadeEngineMods/tree/main/MFM
