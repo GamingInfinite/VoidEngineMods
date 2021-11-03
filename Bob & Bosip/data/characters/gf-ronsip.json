@@ -7,20 +7,20 @@
     {
       "name": "sad",
       "prefix": "gf sad",
-      "looped": false,
+      "looped": true,
       "offsets": [-559, -715]
     },
     {
       "name": "danceLeft",
       "prefix": "GF Dancing Beat Left",
-      "looped": false,
-      "offsets": [0]
+      "looped": true,
+      "offsets": [2000, 2000]
     },
     {
       "name": "danceRight",
       "prefix": "GF Dancing Beat Right",
-      "looped": false,
-      "offsets": [0]
+      "looped": true,
+      "offsets": [2000, 2000]
     }
   ]
 }

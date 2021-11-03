@@ -1,38 +1,38 @@
 {
     "name": "Sans",
     "asset": "characters/sans1",
-    "barColor": "#ff0000",
+    "barColor": "#3E324C",
     "startingAnim": "idle",
     "animations": [
       {
         "name": "idle",
         "prefix": "sans idle",
         "looped": true,
-        "offsets": [0, 0]
+        "offsets": [0, -100]
       },
       {
         "name": "singLEFT",
         "prefix": "sans left",
         "looped": true,
-        "offsets": [-10, 10]
+        "offsets": [-10, -90]
       },
       {
         "name": "singRIGHT",
         "prefix": "sans right",
         "looped": true,
-        "offsets": [0, 27]
+        "offsets": [0, -73]
       },
       {
         "name": "singUP",
         "prefix": "sans up",
         "looped": true,
-        "offsets": [-6, 50]
+        "offsets": [-6, -50]
       },
       {
         "name": "singDOWN",
         "prefix": "sans down",
         "looped": true,
-        "offsets": [0, -30]
+        "offsets": [0, -100]
       }
     ]
   }
