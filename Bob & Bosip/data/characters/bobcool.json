@@ -1,0 +1,39 @@
+{
+  "name": "Bob (Cameo)",
+  "asset": "characters/bob_asset",
+  "barColor": "#FFFFFFFF",
+  "flipX": true,
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "bob_idle",
+      "looped": false,
+      "offsets": [0, -200]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "bob_LEFT",
+      "looped": false,
+      "offsets": [0, -200]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "bob_RIGHT",
+      "looped": false,
+      "offsets": [0, -200]
+    },
+    {
+      "name": "singUP",
+      "prefix": "bob_UP",
+      "looped": false,
+      "offsets": [0, -200]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "bob_DOWN",
+      "looped": true,
+      "offsets": [0, -200]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "GF But Bosip",
+  "asset": "characters/worriedbosip",
+  "barColor": "#FFebdd44",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "BOSIP Scared",
+      "looped": true,
+      "offsets": [0]
+    }
+  ]
+}

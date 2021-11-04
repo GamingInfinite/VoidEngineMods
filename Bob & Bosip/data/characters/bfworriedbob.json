@@ -1,0 +1,81 @@
+{
+  "name": "Worried Bob",
+  "asset": "characters/Worriedbob",
+  "barColor": "#FFebdd44",
+  "flipX": true,
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "BOB idle dance",
+      "looped": false,
+      "offsets": [0, 95]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "BOB Sing Note LEFT0",
+      "looped": false,
+      "offsets": [12, 94]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "BOB Sing Note RIGHT0",
+      "looped": false,
+      "offsets": [-38, 93]
+    },
+    {
+      "name": "singUP",
+      "prefix": "BOB Sing Note UP0",
+      "looped": false,
+      "offsets": [-29, 127]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "BOB Sing Note DOWN0",
+      "looped": false,
+      "offsets": [-10, 50]
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "Bob Miss down",
+      "looped": false,
+      "offsets": [-11, 119]
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "Bob Miss up",
+      "looped": false,
+      "offsets": [-29, 127]
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "Bob Miss left",
+      "looped": false,
+      "offsets": [12, 124]
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "Bob Miss right",
+      "looped": false,
+      "offsets": [-30, 121]
+    },
+    {
+      "name": "firstDeath",
+      "prefix": "bob fucking dies0",
+      "looped": false,
+      "offsets": [37, 111]
+    },
+    {
+      "name": "deathLoop",
+      "prefix": "bob fucking dies loop",
+      "looped": true,
+      "offsets": [37, 105]
+    },
+    {
+      "name": "deathConfirm",
+      "prefix": "bob fucking dies confirm",
+      "looped": false,
+      "offsets": [37, 169]
+    }
+  ]
+}
