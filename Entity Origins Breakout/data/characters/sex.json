@@ -1,0 +1,69 @@
+{
+  "name": "Six",
+  "asset": "characters/six_sheet",
+  "barColor": "#31B0D1",
+  "flipX": true,
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "left",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "right",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "upb miss",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "leftb miss",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "rightb miss",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "downb miss",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "firstDeath",
+      "prefix": "BF dies",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "deathLoop",
+      "prefix": "BF Dead Loop",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "deathConfirm",
+      "prefix": "BF Dead confirm",
+      "offsets": [0, 0]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Daidem",
+    "asset": "characters/DaidemAssetsREwork",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Idke",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Left",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Right",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Up",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Down",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  
