@@ -1,3 +1,4 @@
+swing:bosip:8
 split:amor:8
 copy-cat:bobcool:10
 jump-out:gloopy:10
