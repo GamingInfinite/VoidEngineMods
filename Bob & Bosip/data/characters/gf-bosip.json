@@ -1,0 +1,21 @@
+{
+    "name": "Bosip (w/GF)",
+    "asset": "characters/Bosip_gf",
+    "barColor": "#FFebdd44",
+    "startingAnim": "dance",
+    "animations": [
+      {
+        "name": "dance",
+        "prefix": "GF Dancing Beat",
+        "looped": true,
+        "offsets": [0]
+      },
+      {
+        "name": "sad",
+        "prefix": "gf sad",
+        "looped": true,
+        "offsets": [0]
+      }
+    ]
+  }
+  

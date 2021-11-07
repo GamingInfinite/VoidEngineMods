@@ -1,3 +1,4 @@
+jump-in:bob:8
 swing:bosip:8
 split:amor:8
 copy-cat:bobcool:10
