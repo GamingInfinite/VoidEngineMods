@@ -1,0 +1,39 @@
+{
+    "name": "Kapi",
+    "asset": "characters/KAPI_ANGRY",
+    "barColor": "#9a8ca4",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Dad idle dance",
+        "looped": false,
+        "offsets":[0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Dad Sing Note LEFT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Dad Sing Note RIGHT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Dad Sing Note UP",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Dad Sing Note DOWN",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

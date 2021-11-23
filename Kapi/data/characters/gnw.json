@@ -1,0 +1,39 @@
+{
+    "name": "Game & Watch",
+    "asset": "characters/gnw",
+    "barColor": "#9a8ca4",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "spooky dance idle",
+        "looped": false,
+        "offsets":[0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "note sing left",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "spooky sing right",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "spooky UP NOTE",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "spooky DOWN note",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  
