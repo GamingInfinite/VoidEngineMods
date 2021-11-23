@@ -1,0 +1,39 @@
+{
+    "name": "Bluskys",
+    "asset": "characters/Bluskys",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Bluskys idle dance",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Bluskys Sing Note LEFT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Bluskys Sing Note RIGHT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Bluskys Sing Note UP",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Bluskys Sing Note DOWN",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

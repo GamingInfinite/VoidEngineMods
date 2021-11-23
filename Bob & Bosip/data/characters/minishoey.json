@@ -1,0 +1,39 @@
+{
+    "name": "Minishoey",
+    "asset": "characters/Minishoey",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Minishoey idle dance",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Minishoey Sing Note LEFT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Minishoey Sing Note RIGHT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Minishoey Sing Note UP",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Minishoey Sing Note DOWN",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

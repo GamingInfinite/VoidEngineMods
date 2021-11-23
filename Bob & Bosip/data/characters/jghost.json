@@ -1,0 +1,39 @@
+{
+    "name": "JGhost",
+    "asset": "characters/Jghost",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Jghost idle dance",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Jghost Sing Note LEFT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Jghost Sing Note RIGHT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Jghost Sing Note UP",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Jghost Sing Note DOWN",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

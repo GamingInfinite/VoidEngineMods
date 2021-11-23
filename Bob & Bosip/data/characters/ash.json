@@ -1,0 +1,39 @@
+{
+    "name": "Ash",
+    "asset": "characters/ASH",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "ASH idle dance",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "ASH Sing Note LEFT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "ASH Sing Note RIGHT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "ASH Sing Note UP",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "ASH Sing Note DOWN",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

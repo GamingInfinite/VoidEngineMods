@@ -1,6 +1,10 @@
 jump-in:bob:8
 swing:bosip:8
 split:amor:8
+groovy-brass:bluskys:9
+yap-squad:jghost:9
+conscience:minishoey:9
+intertwined:ash:9
 copy-cat:bobcool:10
 jump-out:gloopy:10
 ronaldmcdonaldslide:ronsip:10
