@@ -1,0 +1,3 @@
+screenplay:agoti:42
+parasite:agoti:42
+a.g.o.t.i:agoti-crazy:42

@@ -1,0 +1,39 @@
+{
+    "name": "A.G.O.T.I (Crazy)",
+    "asset": "characters/Alt_Agoti_Sprites_B",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Angry_Agoti_Idle",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Angry_Agoti_Left",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Angry_Agoti_Right",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Angry_Agoti_Up",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Angry_Agoti_Down",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  
