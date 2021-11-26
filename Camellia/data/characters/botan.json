@@ -1,0 +1,38 @@
+{
+    "name": "Botan",
+    "asset": "characters/botan",
+    "barColor": "#ff0000",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "botan Idle Dance",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "botan NOTE LEFT0",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "botan Note Right0",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "botan Up note0",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "botan Down Note0",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }

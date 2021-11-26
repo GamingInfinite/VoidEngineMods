@@ -1,0 +1,9 @@
+first-town:camellia:42
+liquated:camellia:42
+why-do-you-hate-me:camellia:42
+quaoar:camellia:43
+crystallized:camellia:43
+nacreous-snowmelt:camellia:43
+lioness-pride:botan:44
+ghost:camellia:45
+ghoul:camellia:45

@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="botan.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Down Note00000" x="0" y="0" width="636" height="454" frameX="0" frameY="-8" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00001" x="0" y="0" width="636" height="454" frameX="0" frameY="-8" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00002" x="636" y="0" width="402" height="464" frameX="-4" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00003" x="636" y="0" width="402" height="464" frameX="-4" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00004" x="1038" y="0" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00005" x="1038" y="0" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00006" x="1038" y="0" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00007" x="1038" y="0" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00008" x="1038" y="0" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00009" x="1038" y="0" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note00010" x="1038" y="0" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="Pico Down Note MISS0000" x="1442" y="0" width="636" height="454" frameX="-13" frameY="-19" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0001" x="2078" y="0" width="419" height="474" frameX="-2" frameY="0" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0002" x="2078" y="0" width="419" height="474" frameX="-2" frameY="0" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0003" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0004" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0005" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0006" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0007" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0008" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0009" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0010" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0011" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0012" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0013" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0014" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0015" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0016" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0017" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0018" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0019" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0020" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0021" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0022" x="2919" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0023" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Down Note MISS0024" x="2497" y="0" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="Pico Idle Dance0000" x="3341" y="0" width="428" height="492" frameX="0" frameY="-17" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0001" x="3341" y="0" width="428" height="492" frameX="0" frameY="-17" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0002" x="3769" y="0" width="424" height="490" frameX="0" frameY="-20" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0003" x="3769" y="0" width="424" height="490" frameX="0" frameY="-20" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0004" x="4193" y="0" width="415" height="501" frameX="-6" frameY="-10" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0005" x="4193" y="0" width="415" height="501" frameX="-6" frameY="-10" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0006" x="4608" y="0" width="412" height="509" frameX="-8" frameY="-2" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0007" x="4608" y="0" width="412" height="509" frameX="-8" frameY="-2" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0008" x="5020" y="0" width="411" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0009" x="5020" y="0" width="411" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0010" x="5431" y="0" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0011" x="5431" y="0" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0012" x="5431" y="0" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico Idle Dance0013" x="5431" y="0" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="Pico NOTE LEFT00000" x="5845" y="0" width="389" height="492" frameX="0" frameY="-7" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00001" x="5845" y="0" width="389" height="492" frameX="0" frameY="-7" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00002" x="6234" y="0" width="386" height="499" frameX="-1" frameY="0" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00003" x="6234" y="0" width="386" height="499" frameX="-1" frameY="0" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00004" x="6620" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00005" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00006" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00007" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00008" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00009" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00010" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00011" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00012" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00013" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00014" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00015" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT00016" x="7004" y="0" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="Pico NOTE LEFT miss0000" x="7388" y="0" width="389" height="492" frameX="-30" frameY="-4" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0001" x="0" y="511" width="418" height="497" frameX="-4" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0002" x="0" y="511" width="418" height="497" frameX="-4" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0003" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0004" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0005" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0006" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0007" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0008" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0009" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0010" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0011" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0012" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0013" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0014" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0015" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0016" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0017" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0018" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0019" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0020" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0021" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0022" x="837" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0023" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico NOTE LEFT miss0024" x="418" y="511" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="Pico Note Right00000" x="1256" y="511" width="413" height="494" frameX="-2" frameY="-5" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00001" x="1256" y="511" width="413" height="494" frameX="-2" frameY="-5" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00002" x="1669" y="511" width="411" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00003" x="1669" y="511" width="411" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00004" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00005" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00006" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00007" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00008" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00009" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00010" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00011" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00012" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00013" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00014" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00015" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right00016" x="2080" y="511" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="Pico Note Right Miss0000" x="2487" y="511" width="413" height="494" frameX="0" frameY="-7" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0001" x="2900" y="511" width="410" height="501" frameX="0" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0002" x="2900" y="511" width="410" height="501" frameX="0" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0003" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0004" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0005" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0006" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0007" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0008" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0009" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0010" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0011" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0012" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0013" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0014" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0015" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0016" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0017" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0018" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0019" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0020" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0021" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0022" x="3723" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0023" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="Pico Note Right Miss0024" x="3310" y="511" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Down Note00000" x="6663" y="511" width="636" height="454" frameX="0" frameY="-8" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00001" x="6663" y="511" width="636" height="454" frameX="0" frameY="-8" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00002" x="7299" y="511" width="402" height="464" frameX="-4" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00003" x="7299" y="511" width="402" height="464" frameX="-4" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00004" x="7701" y="511" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00005" x="7701" y="511" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00006" x="7701" y="511" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00007" x="7701" y="511" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00008" x="7701" y="511" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00009" x="7701" y="511" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note00010" x="7701" y="511" width="404" height="464" frameX="-3" frameY="0" frameWidth="636" frameHeight="464"/>
+	<SubTexture name="botan Down Note MISS0000" x="0" y="1038" width="636" height="454" frameX="-13" frameY="-19" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0001" x="636" y="1038" width="419" height="474" frameX="-2" frameY="0" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0002" x="636" y="1038" width="419" height="474" frameX="-2" frameY="0" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0003" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0004" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0005" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0006" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0007" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0008" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0009" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0010" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0011" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0012" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0013" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0014" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0015" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0016" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0017" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0018" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0019" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0020" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0021" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0022" x="1477" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0023" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan Down Note MISS0024" x="1055" y="1038" width="422" height="467" frameX="0" frameY="-6" frameWidth="649" frameHeight="474"/>
+	<SubTexture name="botan GameOver LOOP0000" x="1899" y="1038" width="425" height="603"/>
+	<SubTexture name="botan GameOver LOOP0001" x="2324" y="1038" width="425" height="599" frameX="0" frameY="-4" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0002" x="2324" y="1038" width="425" height="599" frameX="0" frameY="-4" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0003" x="2749" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0004" x="2749" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0005" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0006" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0007" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0008" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0009" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0010" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0011" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0012" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0013" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0014" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0015" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0016" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0017" x="1899" y="1038" width="425" height="603"/>
+	<SubTexture name="botan GameOver LOOP0018" x="2324" y="1038" width="425" height="599" frameX="0" frameY="-4" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0019" x="2324" y="1038" width="425" height="599" frameX="0" frameY="-4" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0020" x="3599" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0021" x="3599" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0022" x="4024" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0023" x="4449" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0024" x="4449" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0025" x="4874" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0026" x="4874" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0027" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0028" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0029" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0030" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0031" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0032" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver LOOP0033" x="3174" y="1038" width="425" height="598" frameX="0" frameY="-5" frameWidth="425" frameHeight="603"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0000" x="5299" y="1038" width="425" height="608" frameX="-9" frameY="-89" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0001" x="5724" y="1038" width="429" height="667" frameX="-5" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0002" x="6153" y="1038" width="429" height="697" frameX="-5" frameY="0" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0003" x="6582" y="1038" width="431" height="667" frameX="-3" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0004" x="7013" y="1038" width="431" height="667" frameX="-3" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0005" x="7444" y="1038" width="432" height="667" frameX="-2" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0006" x="0" y="1735" width="432" height="667" frameX="-2" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0007" x="432" y="1735" width="434" height="667" frameX="0" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0008" x="866" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0009" x="1291" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0010" x="1716" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0011" x="2141" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0012" x="2566" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0013" x="2991" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0014" x="3416" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0015" x="3841" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0016" x="4266" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0017" x="4691" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0018" x="5116" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0019" x="5541" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0020" x="5966" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0021" x="6391" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0022" x="6816" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0023" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0024" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0025" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0026" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0027" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0028" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0029" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0030" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0031" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0032" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver RETRYCONFIRM0033" x="7241" y="1735" width="425" height="667" frameX="-9" frameY="-30" frameWidth="434" frameHeight="697"/>
+	<SubTexture name="botan GameOver START0000" x="7666" y="1735" width="435" height="512" frameX="-44" frameY="-102" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0001" x="0" y="2402" width="474" height="505" frameX="0" frameY="-109" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0002" x="474" y="2402" width="501" height="516" frameX="-12" frameY="-100" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0003" x="474" y="2402" width="501" height="516" frameX="-12" frameY="-100" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0004" x="975" y="2402" width="474" height="512" frameX="-4" frameY="-104" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0005" x="975" y="2402" width="474" height="512" frameX="-4" frameY="-104" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0006" x="1449" y="2402" width="468" height="512" frameX="-4" frameY="-104" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0007" x="1449" y="2402" width="468" height="512" frameX="-4" frameY="-104" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0008" x="1917" y="2402" width="456" height="510" frameX="-16" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0009" x="1917" y="2402" width="456" height="510" frameX="-16" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0010" x="2373" y="2402" width="451" height="510" frameX="-21" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0011" x="2373" y="2402" width="451" height="510" frameX="-21" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0012" x="2824" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0013" x="2824" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0014" x="2824" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0015" x="3249" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0016" x="3249" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0017" x="3249" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0018" x="3674" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0019" x="3674" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0020" x="4099" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0021" x="4099" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0022" x="4524" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0023" x="4524" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0024" x="4949" y="2402" width="425" height="510" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0025" x="5374" y="2402" width="425" height="524" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0026" x="5374" y="2402" width="425" height="524" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0027" x="5799" y="2402" width="425" height="529" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0028" x="5799" y="2402" width="425" height="529" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0029" x="6224" y="2402" width="425" height="529" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0030" x="6224" y="2402" width="425" height="529" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0031" x="6649" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0032" x="6649" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0033" x="6649" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0034" x="6649" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0035" x="7074" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0036" x="7074" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0037" x="7499" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0038" x="7499" y="2402" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0039" x="0" y="2933" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0040" x="0" y="2933" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0041" x="425" y="2933" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0042" x="425" y="2933" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0043" x="850" y="2933" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0044" x="850" y="2933" width="425" height="531" frameX="-47" frameY="-106" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0045" x="1275" y="2933" width="425" height="551" frameX="-47" frameY="-86" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0046" x="1700" y="2933" width="425" height="637" frameX="-47" frameY="0" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0047" x="1700" y="2933" width="425" height="637" frameX="-47" frameY="0" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0048" x="2125" y="2933" width="425" height="633" frameX="-47" frameY="-4" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0049" x="2125" y="2933" width="425" height="633" frameX="-47" frameY="-4" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0050" x="2550" y="2933" width="425" height="620" frameX="-47" frameY="-17" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0051" x="2975" y="2933" width="425" height="601" frameX="-47" frameY="-36" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0052" x="3400" y="2933" width="425" height="585" frameX="-47" frameY="-52" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0053" x="3825" y="2933" width="425" height="596" frameX="-47" frameY="-41" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0054" x="3825" y="2933" width="425" height="596" frameX="-47" frameY="-41" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0055" x="4250" y="2933" width="425" height="598" frameX="-47" frameY="-39" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0056" x="4250" y="2933" width="425" height="598" frameX="-47" frameY="-39" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan GameOver START0057" x="4250" y="2933" width="425" height="598" frameX="-47" frameY="-39" frameWidth="513" frameHeight="637"/>
+	<SubTexture name="botan Idle Dance0000" x="4675" y="2933" width="428" height="492" frameX="0" frameY="-17" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0001" x="4675" y="2933" width="428" height="492" frameX="0" frameY="-17" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0002" x="5103" y="2933" width="424" height="490" frameX="0" frameY="-20" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0003" x="5103" y="2933" width="424" height="490" frameX="0" frameY="-20" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0004" x="5527" y="2933" width="415" height="501" frameX="-6" frameY="-10" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0005" x="5527" y="2933" width="415" height="501" frameX="-6" frameY="-10" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0006" x="5942" y="2933" width="412" height="509" frameX="-8" frameY="-2" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0007" x="5942" y="2933" width="412" height="509" frameX="-8" frameY="-2" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0008" x="6354" y="2933" width="411" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0009" x="6354" y="2933" width="411" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0010" x="6765" y="2933" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0011" x="6765" y="2933" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0012" x="6765" y="2933" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan Idle Dance0013" x="6765" y="2933" width="414" height="511" frameX="-8" frameY="0" frameWidth="428" frameHeight="511"/>
+	<SubTexture name="botan NOTE LEFT00000" x="7179" y="2933" width="389" height="492" frameX="0" frameY="-7" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00001" x="7179" y="2933" width="389" height="492" frameX="0" frameY="-7" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00002" x="7568" y="2933" width="386" height="499" frameX="-1" frameY="0" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00003" x="7568" y="2933" width="386" height="499" frameX="-1" frameY="0" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00004" x="0" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00005" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00006" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00007" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00008" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00009" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00010" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00011" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00012" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00013" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00014" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00015" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT00016" x="384" y="3570" width="384" height="498" frameX="-3" frameY="-1" frameWidth="389" frameHeight="499"/>
+	<SubTexture name="botan NOTE LEFT miss0000" x="768" y="3570" width="389" height="492" frameX="-30" frameY="-4" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0001" x="1157" y="3570" width="418" height="497" frameX="-4" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0002" x="1157" y="3570" width="418" height="497" frameX="-4" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0003" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0004" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0005" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0006" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0007" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0008" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0009" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0010" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0011" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0012" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0013" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0014" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0015" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0016" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0017" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0018" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0019" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0020" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0021" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0022" x="1994" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0023" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan NOTE LEFT miss0024" x="1575" y="3570" width="419" height="497" frameX="0" frameY="0" frameWidth="422" frameHeight="497"/>
+	<SubTexture name="botan Note Right00000" x="2413" y="3570" width="413" height="494" frameX="-2" frameY="-5" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00001" x="2413" y="3570" width="413" height="494" frameX="-2" frameY="-5" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00002" x="2826" y="3570" width="411" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00003" x="2826" y="3570" width="411" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00004" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00005" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00006" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00007" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00008" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00009" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00010" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00011" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00012" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00013" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00014" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00015" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right00016" x="3237" y="3570" width="407" height="499" frameX="0" frameY="0" frameWidth="415" frameHeight="499"/>
+	<SubTexture name="botan Note Right Miss0000" x="3644" y="3570" width="413" height="494" frameX="0" frameY="-7" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0001" x="4057" y="3570" width="410" height="501" frameX="0" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0002" x="4057" y="3570" width="410" height="501" frameX="0" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0003" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0004" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0005" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0006" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0007" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0008" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0009" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0010" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0011" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0012" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0013" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0014" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0015" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0016" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0017" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0018" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0019" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0020" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0021" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0022" x="4880" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0023" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan Note Right Miss0024" x="4467" y="3570" width="413" height="501" frameX="-1" frameY="0" frameWidth="414" frameHeight="501"/>
+	<SubTexture name="botan PEACE!0000" x="5293" y="3570" width="454" height="514"/>
+	<SubTexture name="botan PEACE!0001" x="5293" y="3570" width="454" height="514"/>
+	<SubTexture name="botan PEACE!0002" x="5747" y="3570" width="445" height="508" frameX="0" frameY="-6" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0003" x="6192" y="3570" width="445" height="508" frameX="0" frameY="-6" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0004" x="6637" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0005" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0006" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0007" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0008" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0009" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0010" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0011" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0012" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0013" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0014" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0015" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0016" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0017" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0018" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0019" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0020" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0021" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0022" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0023" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0024" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan PEACE!0025" x="7084" y="3570" width="447" height="511" frameX="0" frameY="-3" frameWidth="454" frameHeight="514"/>
+	<SubTexture name="botan Up note00000" x="7531" y="3570" width="421" height="527" frameX="-6" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00001" x="7531" y="3570" width="421" height="527" frameX="-6" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00002" x="0" y="4097" width="417" height="525" frameX="0" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00003" x="0" y="4097" width="417" height="525" frameX="0" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00004" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00005" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00006" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00007" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00008" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00009" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00010" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00011" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00012" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note00013" x="417" y="4097" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0000" x="7531" y="3570" width="421" height="527" frameX="-5" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0001" x="834" y="4097" width="428" height="523" frameX="0" frameY="-4" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0002" x="834" y="4097" width="428" height="523" frameX="0" frameY="-4" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0003" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0004" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0005" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0006" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0007" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0008" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0009" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0010" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0011" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0012" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0013" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0014" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0015" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0016" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0017" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0018" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0019" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0020" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0021" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0022" x="1684" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0023" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan Up note miss0024" x="1262" y="4097" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="botan thunder0000" x="2106" y="4097" width="414" height="510"/>
+	<SubTexture name="botan thunder0001" x="2520" y="4097" width="414" height="510"/>
+	<SubTexture name="botan thunder0002" x="2106" y="4097" width="414" height="510"/>
+	<SubTexture name="botan thunder0003" x="2520" y="4097" width="414" height="510"/>
+	<SubTexture name="pico Up note00000" x="4136" y="511" width="421" height="527" frameX="-6" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00001" x="4136" y="511" width="421" height="527" frameX="-6" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00002" x="4557" y="511" width="417" height="525" frameX="0" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00003" x="4557" y="511" width="417" height="525" frameX="0" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00004" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00005" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00006" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00007" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00008" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00009" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00010" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00011" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00012" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note00013" x="4974" y="511" width="417" height="523" frameX="-3" frameY="-2" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0000" x="4136" y="511" width="421" height="527" frameX="-5" frameY="0" frameWidth="427" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0001" x="5391" y="511" width="428" height="523" frameX="0" frameY="-4" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0002" x="5391" y="511" width="428" height="523" frameX="0" frameY="-4" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0003" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0004" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0005" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0006" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0007" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0008" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0009" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0010" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0011" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0012" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0013" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0014" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0015" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0016" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0017" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0018" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0019" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0020" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0021" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0022" x="6241" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0023" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+	<SubTexture name="pico Up note miss0024" x="5819" y="511" width="422" height="527" frameX="-4" frameY="0" frameWidth="428" frameHeight="527"/>
+</TextureAtlas>

@@ -1,0 +1,38 @@
+{
+    "name": "Template Character",
+    "asset": "characters/characterimagexmlfile",
+    "barColor": "#ff0000",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "template idle",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "template left",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "template right",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "template up",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "template left",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }

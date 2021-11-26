@@ -1,0 +1,38 @@
+{
+    "name": "Camellia",
+    "asset": "characters/camellia",
+    "barColor": "#ff0000",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Camellia_Idle0",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Camellia_Left0",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Camellia_Right0",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Camellia_Up0",
+        "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Camellia_Down0",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
