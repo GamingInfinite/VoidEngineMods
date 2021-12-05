@@ -4,7 +4,7 @@
     This is a public repository for all of my mods for Kade Engine using their recently implemented ModCore.
 </p>
 <p align="center">
-    <img src="https://img.shields.io/discord/785704016054452264?logo=discord" alt="Come to Discord">
+    <img src="https://img.shields.io/discord/785704016054452264?logo=discord?color=5032a8?style=for-the-badge" alt="Come to Discord">
 </p>
 
 ### Disclaimer
