@@ -1,6 +1,8 @@
 # Kade Engine Mods
 
 <p align="center">
+    <img src="https://github.com/GamingInfinite/KadeEngineMods/blob/main/readme%20files/images/logo.png">
+    <br>
     This is a public repository for all of my mods for Kade Engine using their recently implemented ModCore.
 </p>
 <p align="center">
