@@ -1,0 +1,8 @@
+{
+	"title":"Playable Girlfriend",
+	"description":"This mod adds a character json for a playable girlfriend, that can be replaced for the player1 tag in a song data json.",
+	"author":"GInfinity",
+	"api_version":"0.1.0",
+	"mod_version":"0.0.1",
+	"license":"GPLv3"
+}

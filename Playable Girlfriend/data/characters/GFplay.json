@@ -1,0 +1,92 @@
+{
+  "name": "Girlfriend (Playable)",
+  "asset": "characters/GF_Player",
+  "barColor": "#FFd73c92",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [-7, 0],
+      "name": "idle",
+      "prefix": "GF idle dance"
+    },
+    {
+      "loop": false,
+      "offsets": [-5, 10],
+      "name": "singLEFT",
+      "prefix": "GF NOTE LEFT0"
+    },
+    {
+      "loop": false,
+      "offsets": [-31, 1],
+      "name": "singDOWN",
+      "prefix": "GF NOTE DOWN0"
+    },
+    {
+      "loop": false,
+      "offsets": [-30, 7],
+      "name": "singUP",
+      "prefix": "GF NOTE UP0"
+    },
+    {
+      "loop": false,
+      "offsets": [-41, -2],
+      "name": "singRIGHT",
+      "prefix": "GF NOTE RIGHT0"
+    },
+    {
+      "loop": false,
+      "offsets": [-5, 18],
+      "name": "singLEFTmiss",
+      "prefix": "GF NOTE LEFT MISS"
+    },
+    {
+      "loop": false,
+      "offsets": [-30, 20],
+      "name": "singDOWNmiss",
+      "prefix": "GF NOTE DOWN MISS"
+    },
+    {
+      "loop": false,
+      "offsets": [-23, 12],
+      "name": "singUPmiss",
+      "prefix": "GF NOTE UP MISS"
+    },
+    {
+      "loop": false,
+      "offsets": [-26, 7],
+      "name": "singRIGHTmiss",
+      "prefix": "GF NOTE RIGHT MISS"
+    },
+    {
+      "loop": false,
+      "offsets": [-12, -1],
+      "name": "hey",
+      "prefix": "GF HEY"
+    },
+    {
+      "loop": true,
+      "offsets": [-14, 4],
+      "name": "scared",
+      "prefix": "GF idle shaking"
+    },
+    {
+      "loop": false,
+      "offsets": [-3, 24],
+      "name": "firstDeath",
+      "prefix": "GF dies"
+    },
+    {
+      "loop": true,
+      "offsets": [-5, 36],
+      "name": "deathLoop",
+      "prefix": "GF Dead Loop"
+    },
+    {
+      "loop": false,
+      "offsets": [-7, 32],
+      "name": "deathConfirm",
+      "prefix": "GF Dead confirm"
+    }
+  ]
+}
