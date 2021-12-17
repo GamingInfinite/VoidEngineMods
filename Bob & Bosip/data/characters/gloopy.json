@@ -3,36 +3,37 @@
     "asset": "characters/STUPID_GLOOP_MAN",
     "barColor": "#FFebdd44",
     "startingAnim": "idle",
+    "camPos": [0, -250],
     "animations": [
       {
         "name": "idle",
         "prefix": "bob_idle",
         "looped": false,
-        "offsets": [0, -250]
+        "offsets": [0]
       },
       {
         "name": "singLEFT",
         "prefix": "bob_left",
         "looped": false,
-        "offsets": [0, -250]
+        "offsets": [0]
       },
       {
         "name": "singRIGHT",
         "prefix": "bob_right",
         "looped": false,
-        "offsets": [0, -250]
+        "offsets": [0]
       },
       {
         "name": "singUP",
         "prefix": "bob_up",
         "looped": false,
-        "offsets": [0, -250]
+        "offsets": [0]
       },
       {
         "name": "singDOWN",
         "prefix": "bob_down",
         "looped": true,
-        "offsets": [0, -250]
+        "offsets": [0]
       }
     ]
   }
