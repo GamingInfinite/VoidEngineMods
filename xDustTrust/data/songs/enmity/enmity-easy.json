@@ -681,6 +681,7 @@
       }
     ],
     "player2": "sans2",
+    "gfVersion": "gf-stand2",
     "song": "rampage",
     "validScore": true,
     "needsVoices": true,

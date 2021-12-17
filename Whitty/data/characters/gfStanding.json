@@ -3,6 +3,9 @@
   "asset": "characters/GF_Standing_Sway",
   "barColor": "#ff0000",
   "startingAnim": "danceRight",
+  "isDancing": true,
+  "holdLength": 4.1,
+  "replacesGF": true,
   "animations": [
     {
       "name": "sad",

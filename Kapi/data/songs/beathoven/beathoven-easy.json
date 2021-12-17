@@ -1644,6 +1644,7 @@
       }
     ],
     "player2": "kapi",
+    "gfVersion": "gf-arcade",
     "song": "Beathoven",
     "validScore": true,
     "sections": 0,
