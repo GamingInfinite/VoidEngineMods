@@ -1,3 +1,6 @@
 screenplay:agoti:42
 parasite:agoti:42
 a.g.o.t.i:agoti-crazy:42
+shotgun-shell:aldryx:43
+godrays:sol:44
+promenade:niku:45

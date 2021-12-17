@@ -1,0 +1,31 @@
+{
+  "name": "Girlfriend (Market)",
+  "asset": "characters/GF_B",
+  "barColor": "#A5004D",
+  "startingAnim": "danceRight",
+  "isDancing": true,
+  "holdLength": 4.1,
+  "replacesGF": true,
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [-95, -194],
+      "name": "sad",
+      "prefix": "gf sad"
+    },
+    {
+      "loop": false,
+      "offsets": [-80, -179],
+      "name": "danceLeft",
+      "frameIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "prefix": "GF Dancing Beat  "
+    },
+    {
+      "loop": false,
+      "offsets": [-80, -179],
+      "name": "danceRight",
+      "frameIndices": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29],
+      "prefix": "GF Dancing Beat  "
+    }
+  ]
+}

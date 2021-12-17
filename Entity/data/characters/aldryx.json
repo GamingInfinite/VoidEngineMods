@@ -1,0 +1,39 @@
+{
+  "name": "Aldryx",
+  "asset": "characters/ALDRYX",
+  "barColor": "#ba1e24",
+  "camPos": [400, -200],
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [-44, 175],
+      "name": "singLEFT",
+      "prefix": "left"
+    },
+    {
+      "loop": false,
+      "offsets": [-207, -32],
+      "name": "singDOWN",
+      "prefix": "down"
+    },
+    {
+      "loop": false,
+      "offsets": [-176, 495],
+      "name": "singUP",
+      "prefix": "up"
+    },
+    {
+      "loop": false,
+      "offsets": [-88, 207],
+      "name": "singRIGHT",
+      "prefix": "right"
+    },
+    {
+      "loop": false,
+      "offsets": [-225, 161],
+      "name": "idle",
+      "prefix": "ALDRYX_IDLE"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Solazar",
+  "asset": "characters/Solazar_Sprites",
+  "barColor": "#4cd0e2",
+  "camPos": [200, -220],
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "offsets": [-83, 195],
+      "loop": false,
+      "name": "singLEFT",
+      "prefix": "Sol_Left"
+    },
+    {
+      "offsets": [31, 226],
+      "loop": false,
+      "name": "singDOWN",
+      "prefix": "Sol_Down"
+    },
+    {
+      "offsets": [-213, 280],
+      "loop": false,
+      "name": "singUP",
+      "prefix": "Sol_Up"
+    },
+    {
+      "offsets": [-243, 180],
+      "loop": false,
+      "name": "singRIGHT",
+      "prefix": "Sol_Right"
+    },
+    {
+      "offsets": [-235, 201],
+      "loop": false,
+      "name": "idle",
+      "prefix": "Sol_Idle_2"
+    }
+  ]
+}

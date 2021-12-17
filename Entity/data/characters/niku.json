@@ -1,0 +1,39 @@
+{
+  "name": "Niku",
+  "asset": "characters/Nikusa_Sprites",
+  "barColor": "#ffffff",
+  "camPos": [-70, -590],
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "offsets": [181, 474],
+      "loop": false,
+      "name": "singLEFT",
+      "prefix": "Nikusa_Left"
+    },
+    {
+      "offsets": [195, 477],
+      "loop": false,
+      "name": "singDOWN",
+      "prefix": "Nikusa_Down"
+    },
+    {
+      "offsets": [171, 528],
+      "loop": false,
+      "name": "singUP",
+      "prefix": "NikusaUp"
+    },
+    {
+      "offsets": [178, 499],
+      "loop": false,
+      "name": "singRIGHT",
+      "prefix": "Nikusa_Right"
+    },
+    {
+      "offsets": [195, 501],
+      "loop": false,
+      "name": "idle",
+      "prefix": "Nikusa_Idle"
+    }
+  ]
+}

@@ -1294,6 +1294,7 @@
     ],
     "player2": "agoti-crazy",
     "song": "A.G.O.T.I",
+    "gfVersion": "gf-rock",
     "validScore": true,
     "sections": 0,
     "needsVoices": true,

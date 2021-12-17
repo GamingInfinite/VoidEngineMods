@@ -1,7 +1,7 @@
 {
     "name": "A.G.O.T.I (Crazy)",
     "asset": "characters/Alt_Agoti_Sprites_B",
-    "barColor": "#FFd73c92",
+    "barColor": "#2f2f2f",
     "startingAnim": "idle",
     "animations": [
       {

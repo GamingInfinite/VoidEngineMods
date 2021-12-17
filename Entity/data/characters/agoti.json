@@ -1,38 +1,39 @@
 {
     "name": "A.G.O.T.I",
     "asset": "characters/AGOTI",
-    "barColor": "#FFd73c92",
+    "barColor": "#2f2f2f",
+    "camPos": [400, 0],
     "startingAnim": "idle",
     "animations": [
       {
         "name": "idle",
         "prefix": "Agoti_Idle",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [-225, 141]
       },
       {
         "name": "singLEFT",
         "prefix": "Agoti_Left",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [-39, 174]
       },
       {
         "name": "singRIGHT",
         "prefix": "Agoti_Right",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [-130, 96]
       },
       {
         "name": "singUP",
         "prefix": "Agoti_Up",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [-162, 221]
       },
       {
         "name": "singDOWN",
         "prefix": "Agoti_Down",
         "looped": true,
-        "offsets": [0, 0]
+        "offsets": [-180, -44]
       }
     ]
   }
