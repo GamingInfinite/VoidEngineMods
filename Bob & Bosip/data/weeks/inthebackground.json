@@ -1,5 +1,6 @@
 {
     "name": "In The Background",
     "weekCharacters": ["", "bf", "gf"],
-    "songs": ["groovy-brass", "conscience", "yap-squad", "intertwined"]
+    "songs": ["groovy-brass", "conscience", "yap-squad", "intertwined"],
+    "diffs": ["Easy", "Normal", "Hard"]
 }

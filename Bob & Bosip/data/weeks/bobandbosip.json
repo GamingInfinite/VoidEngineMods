@@ -1,5 +1,6 @@
 {
     "name": "Bob and Bosip",
     "weekCharacters": ["", "bf", "gf"],
-    "songs": ["jump-in", "swing", "split"]
+    "songs": ["jump-in", "swing", "split"],
+    "diffs": ["Easy", "Normal", "Hard"]
 }
