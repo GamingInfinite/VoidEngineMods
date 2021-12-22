@@ -1,6 +1,7 @@
 {
   "name": "Girlfriend (Night)",
   "barColor": "#A5004D",
+  "asset": "characters/GFnight_assets",
   "startingAnim": "danceRight",
   "isDancing": true,
   "holdLength": 4.1,

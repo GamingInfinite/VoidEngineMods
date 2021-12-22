@@ -1,0 +1,39 @@
+{
+    "name": "Amor EX",
+    "asset": "characters/amorex",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "amor idle big",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "amor left big",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "amor right big",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "amor up big",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "amor down big",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

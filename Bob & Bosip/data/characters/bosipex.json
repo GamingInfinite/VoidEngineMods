@@ -1,0 +1,39 @@
+{
+    "name": "Bosip EX",
+    "asset": "characters/bosipex",
+    "barColor": "#FFd73c92",
+    "startingAnim": "idle",
+    "animations": [
+      {
+        "name": "idle",
+        "prefix": "Bosip idle dance",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT",
+        "prefix": "Bosip Sing Note LEFT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT",
+        "prefix": "Bosip Sing Note RIGHT",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP",
+        "prefix": "Bosip Sing Note UP",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN",
+        "prefix": "Bosip Sing Note DOWN",
+        "looped": true,
+        "offsets": [0, 0]
+      }
+    ]
+  }
+  

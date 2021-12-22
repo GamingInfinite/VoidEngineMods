@@ -1,0 +1,23 @@
+{
+  "name": "Girlfriend EX",
+  "barColor": "#A5004D",
+  "startingAnim": "danceRight",
+  "asset": "characters/GF_ass_sets_outfit_with_bb",
+  "isDancing": true,
+  "holdLength": 4.1,
+  "replacesGF": true,
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "GF Dancing Beat EX instance 1",
+      "offsets": [0, -9],
+      "frameIndices": [29, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "GF Dancing Beat EX instance 1",
+      "offsets": [0, -9],
+      "frameIndices": [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    }
+  ]
+}
