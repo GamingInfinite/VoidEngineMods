@@ -2,6 +2,7 @@
     "name": "A.G.O.T.I (Crazy)",
     "asset": "characters/Alt_Agoti_Sprites_B",
     "barColor": "#2f2f2f",
+    "barIcon": "agoti-crazy",
     "startingAnim": "idle",
     "animations": [
       {

@@ -1,0 +1,6 @@
+{
+  "name": "PICO",
+  "weekCharacters": ["pico", "bf", "gf"],
+  "songs": ["pico", "philly", "blammed"],
+  "diffs": ["Easy", "Normal", "Hard", "bside"]
+}

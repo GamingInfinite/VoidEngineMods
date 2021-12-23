@@ -2,6 +2,7 @@
   "name": "Bob (Cameo)",
   "asset": "characters/bob_asset",
   "barColor": "#FFFFFFFF",
+  "barIcon": "bobcool",
   "flipX": true,
   "startingAnim": "idle",
   "animations": [

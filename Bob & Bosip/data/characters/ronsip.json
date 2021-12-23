@@ -2,6 +2,7 @@
   "name": "Ronsip",
   "asset": "characters/kill_yourself",
   "barColor": "#FFebdd44",
+  "barIcon": "ronsip",
   "startingAnim": "idle",
   "animations": [
     {

@@ -2,6 +2,7 @@
     "name": "Gloopy",
     "asset": "characters/STUPID_GLOOP_MAN",
     "barColor": "#FFebdd44",
+    "barIcon": "gloopy",
     "startingAnim": "idle",
     "camPos": [0, -250],
     "animations": [

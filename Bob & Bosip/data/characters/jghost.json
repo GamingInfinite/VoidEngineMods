@@ -2,6 +2,7 @@
     "name": "JGhost",
     "asset": "characters/Jghost",
     "barColor": "#FFd73c92",
+    "barIcon": "jghost",
     "startingAnim": "idle",
     "animations": [
       {

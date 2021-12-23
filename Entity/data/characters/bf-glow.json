@@ -1,7 +1,8 @@
 {
     "name": "Boyfriend (Godrays)",
-    "asset": "characters/BF-Glow",
+    "asset": "characters/BF_Glow",
     "barColor": "#31B0D1",
+    "barIcon": "bf-entity",
     "flipX": true,
     "startingAnim": "idle",
     "animations": [

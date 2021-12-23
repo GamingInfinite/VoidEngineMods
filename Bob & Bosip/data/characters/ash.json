@@ -2,6 +2,7 @@
     "name": "Ash",
     "asset": "characters/ASH",
     "barColor": "#FFd73c92",
+    "barIcon": "ash",
     "startingAnim": "idle",
     "animations": [
       {

@@ -1,0 +1,27 @@
+{
+  "name": "Boyfriend (Pixel Day) (Game Over) (B-Sides)",
+  "asset": "characters/bfPixelsDEADb",
+  "barColor": "#0BCECE",
+  "barIcon": "bf-pixel-bside",
+  "flipX": true,
+  "scale": 6,
+  "antialiasing": false,
+  "startingAnim": "firstDeath",
+  "animations": [
+    {
+      "name": "firstDeath",
+      "prefix": "BF Dies pixel",
+      "offsets": [0, 0]
+    },
+    {
+      "name": "deathLoop",
+      "prefix": "Retry Loop",
+      "offsets": [-30, -12]
+    },
+    {
+      "name": "deathConfirm",
+      "prefix": "RETRY CONFIRM",
+      "offsets": [-30, -12]
+    }
+  ]
+}

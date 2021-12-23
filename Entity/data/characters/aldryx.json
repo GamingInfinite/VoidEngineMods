@@ -2,6 +2,7 @@
   "name": "Aldryx",
   "asset": "characters/ALDRYX",
   "barColor": "#ba1e24",
+  "barIcon": "aldryx",
   "camPos": [400, -200],
   "startingAnim": "idle",
   "animations": [

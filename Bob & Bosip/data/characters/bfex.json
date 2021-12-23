@@ -2,6 +2,7 @@
     "name": "Boyfriend EX",
     "asset": "characters/BoyFriend_Assets_EX",
     "barColor": "#31B0D1",
+    "barIcon": "bfex",
     "flipX": true,
     "startingAnim": "idle",
     "animations": [

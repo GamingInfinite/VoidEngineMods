@@ -1,0 +1,6 @@
+{
+    "name": "Bonus Week",
+    "weekCharacters": ["", "bf", "gf"],
+    "songs": ["lo-fight", "overhead", "ballistic"],
+    "diffs": ["Easy", "Normal", "Hard"]
+}

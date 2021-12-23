@@ -2,6 +2,7 @@
     "name": "Bluskys",
     "asset": "characters/Bluskys",
     "barColor": "#FFd73c92",
+    "barIcon": "bluskys",
     "startingAnim": "idle",
     "animations": [
       {

@@ -1,5 +1,6 @@
 {
     "name": "Vs. Agoti",
     "weekCharacters": ["", "bf", "gf"],
-    "songs": ["screenplay", "parasite", "a.g.o.t.i"]
+    "songs": ["screenplay", "parasite", "a.g.o.t.i"],
+    "diffs": ["Easy", "Normal", "Hard"]
 }

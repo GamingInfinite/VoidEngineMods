@@ -1,6 +1,7 @@
 {
   "name": "Girlfriend EX",
   "barColor": "#A5004D",
+  "barIcon": "gfex",
   "startingAnim": "danceRight",
   "asset": "characters/GF_ass_sets_outfit",
   "isDancing": true,

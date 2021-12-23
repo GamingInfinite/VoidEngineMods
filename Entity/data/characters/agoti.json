@@ -2,6 +2,7 @@
     "name": "A.G.O.T.I",
     "asset": "characters/AGOTI",
     "barColor": "#2f2f2f",
+    "barIcon": "agoti",
     "camPos": [400, 0],
     "startingAnim": "idle",
     "animations": [

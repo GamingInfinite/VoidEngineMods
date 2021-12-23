@@ -2,6 +2,7 @@
   "name": "Worried Bob",
   "asset": "characters/Worriedbob",
   "barColor": "#FFebdd44",
+  "barIcon": "bob",
   "flipX": true,
   "startingAnim": "idle",
   "animations": [

@@ -2,6 +2,7 @@
     "name": "Amor",
     "asset": "characters/amor_assets",
     "barColor": "#FFd73c92",
+    "barIcon": "amor",
     "startingAnim": "idle",
     "animations": [
       {

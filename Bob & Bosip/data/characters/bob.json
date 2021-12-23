@@ -2,6 +2,7 @@
     "name": "Bob",
     "asset": "characters/bob_assets",
     "barColor": "#FFd73c92",
+    "barIcon": "bob",
     "startingAnim": "idle",
     "animations": [
       {

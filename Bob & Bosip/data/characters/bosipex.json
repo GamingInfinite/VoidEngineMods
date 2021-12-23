@@ -2,6 +2,7 @@
     "name": "Bosip EX",
     "asset": "characters/bosipex",
     "barColor": "#FFd73c92",
+    "barIcon": "bosipex",
     "startingAnim": "idle",
     "animations": [
       {

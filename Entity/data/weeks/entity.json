@@ -1,5 +1,6 @@
 {
     "name": "Entity",
     "weekCharacters": ["", "bf", "gf"],
-    "songs": ["shotgun-shell", "parasite", "godrays", "promenade"]
+    "songs": ["shotgun-shell", "parasite", "godrays", "promenade"],
+    "diffs": ["Easy", "Normal", "Hard"]
 }

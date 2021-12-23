@@ -2,6 +2,7 @@
   "name": "Niku",
   "asset": "characters/Nikusa_Sprites",
   "barColor": "#ffffff",
+  "barIcon": "niku",
   "camPos": [-70, -590],
   "startingAnim": "idle",
   "animations": [

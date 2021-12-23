@@ -2,6 +2,7 @@
   "name": "Solazar",
   "asset": "characters/Solazar_Sprites",
   "barColor": "#4cd0e2",
+  "barIcon": "sol",
   "camPos": [200, -220],
   "startingAnim": "idle",
   "animations": [

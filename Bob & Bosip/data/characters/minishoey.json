@@ -2,6 +2,7 @@
     "name": "Minishoey",
     "asset": "characters/Minishoey",
     "barColor": "#FFd73c92",
+    "barIcon": "minishoey",
     "startingAnim": "idle",
     "animations": [
       {

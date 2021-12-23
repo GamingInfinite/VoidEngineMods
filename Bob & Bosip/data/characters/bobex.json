@@ -2,6 +2,7 @@
     "name": "Bob EX",
     "asset": "characters/bobEX",
     "barColor": "#FFd73c92",
+    "barIcon": "bobex",
     "startingAnim": "idle",
     "animations": [
       {

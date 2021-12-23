@@ -2,6 +2,7 @@
     "name": "Amor EX",
     "asset": "characters/amorex",
     "barColor": "#FFd73c92",
+    "barIcon": "amorex",
     "startingAnim": "idle",
     "animations": [
       {
