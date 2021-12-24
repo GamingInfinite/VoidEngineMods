@@ -3838,6 +3838,7 @@
     ],
     "song": "Overhead",
     "gfVersion":"gfStanding",
+    "stage": "alley",
     "validScore": true,
     "sections": 45,
     "needsVoices": true,

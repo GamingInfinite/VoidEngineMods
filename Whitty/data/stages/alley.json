@@ -1,0 +1,59 @@
+{
+    "camZoom": 0.9,
+    "objects": [
+      {
+        "name": "wBg",
+        "posX": -500,
+        "posY": -300,
+        "frames": ["bonusWeek/whittyBack", "shared"],
+        "active": false,
+        "scrollFactor": [0.9, 0.9]
+      },
+      {
+        "name": "nwBg",
+        "song": "ballistic",
+        "posX": -600,
+        "posY": -200,
+        "active": true,
+        "frames": ["bonusWeek/BallisticBackground", "shared"],
+        "scrollFactor": [0.9, 0.9],
+        "isAnimated": true,
+        "animations": [
+          {
+            "name": "idle",
+            "prefix": "Background Whitty Moving",
+            "fps": 16,
+            "looped": true
+          }
+        ]
+      },
+      {
+        "name": "wstageFront",
+        "posX": -650,
+        "posY": 600,
+        "scale": [1.1],
+        "updateHitbox": true,
+        "scrollFactor": [0.9, 0.9],
+        "active": false,
+        "frames": ["bonusWeek/whittyFront", "shared"]
+      }
+    ],
+    "characters": [
+      {
+        "name": "bf",
+        "posX": 770,
+        "posY": 450
+      },
+      {
+        "name": "gfStanding",
+        "posX": 440,
+        "posY": 130
+      },
+      {
+        "name": "whitty",
+        "posX": 100,
+        "posY": 100
+      }
+    ]
+  }
+  

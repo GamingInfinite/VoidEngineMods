@@ -2,6 +2,7 @@
     "name": "Whitty",
     "asset": "characters/WhittySprites",
     "barColor": "#ff0000",
+    "barIcon": "whitty",
     "startingAnim": "idle",
     "animations": [
       {

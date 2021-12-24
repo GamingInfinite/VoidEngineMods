@@ -3,6 +3,7 @@
     "player2": "whittyCrazy",
     "player1": "bf",
     "gfVersion":"gfStanding",
+    "stage": "alley",
     "speed": 2,
     "needsVoices": true,
     "sectionLengths": [],

@@ -4449,6 +4449,7 @@
       }
     ],
     "song": "Overhead",
+    "stage": "alley",
     "validScore": true,
     "sections": 45,
     "needsVoices": true,

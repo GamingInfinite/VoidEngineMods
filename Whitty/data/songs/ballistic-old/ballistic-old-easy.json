@@ -5013,6 +5013,7 @@
     ],
     "song": "Ballistic-Old",
     "gfVersion":"gfStanding",
+    "stage": "alley",
     "validScore": true,
     "sections": 0,
     "needsVoices": true,

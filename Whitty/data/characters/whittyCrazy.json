@@ -2,6 +2,7 @@
     "name": "Whitty (Crazy)",
     "asset": "characters/WhittyCrazy",
     "barColor": "#ff0000",
+    "barIcon": "whittyCrazy",
     "startingAnim": "idle",
     "animations": [
       {
