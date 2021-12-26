@@ -1,0 +1,181 @@
+{
+  "camZoom": 0.75,
+  "objects": [
+    {
+      "name": "bg1",
+      "song": "ronaldmcdonaldslide",
+      "posX": -970,
+      "posY": -580,
+      "active": false,
+      "scrollFactor": [0.3, 0.3],
+      "scale": [0.8, 0.8],
+      "frames": ["sunset/happy/bosip_sky", "shared"]
+    },
+    {
+      "name": "bg2",
+      "song": "ronaldmcdonaldslide",
+      "posX": -1240,
+      "posY": -680,
+      "active": false,
+      "scrollFactor": [0.6, 0.6],
+      "scale": [0.5, 0.5],
+      "frames": ["sunset/happy/bosip_back", "shared"]
+    },
+    {
+      "name": "bg3",
+      "song": "ronaldmcdonaldslide",
+      "posX": -630,
+      "posY": -330,
+      "active": false,
+      "scale": [0.8, 0.8],
+      "frames": ["sunset/happy/bosip_front", "shared"]
+    },
+    {
+      "name": "bg1",
+      "song": "swing",
+      "posX": -970,
+      "posY": -580,
+      "active": false,
+      "scrollFactor": [0.3, 0.3],
+      "scale": [0.8, 0.8],
+      "frames": ["sunset/BG1", "shared"]
+    },
+    {
+      "name": "bg2",
+      "song": "swing",
+      "posX": -1240,
+      "posY": -680,
+      "active": false,
+      "scrollFactor": [0.6, 0.6],
+      "scale": [0.5, 0.5],
+      "frames": ["sunset/BG2", "shared"]
+    },
+    {
+      "name": "mini",
+      "song": "swing",
+      "posX": 817,
+      "posY": 190,
+      "scale": [0.5, 0.5],
+      "scrollFactor": [0.6, 0.6],
+      "isAnimated": true,
+      "frames": ["sunset/femboy and edgy jigglypuff", "shared"],
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "femboy",
+          "fps": 24,
+          "looped": false
+        }
+      ]
+    },
+    {
+      "name": "mordecai",
+      "song": "swing",
+      "posX": 141,
+      "posY": 103,
+      "scale": [0.5, 0.5],
+      "scrollFactor": [0.6, 0.6],
+      "isAnimated": true,
+      "frames": ["sunset/jacob", "shared"],
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "femboy",
+          "fps": 24,
+          "looped": false
+        }
+      ]
+    },
+    {
+      "name": "bg3",
+      "song": "swing",
+      "posX": -630,
+      "posY": -330,
+      "active": false,
+      "scale": [0.8, 0.8],
+      "frames": ["sunset/BG3", "shared"]
+    },
+    {
+        "name": "bg1",
+        "song": "swingex",
+        "posX": -970,
+        "posY": -580,
+        "active": false,
+        "scrollFactor": [0.3, 0.3],
+        "scale": [0.8, 0.8],
+        "frames": ["sunset/BG1", "shared"]
+      },
+      {
+        "name": "bg2",
+        "song": "swingex",
+        "posX": -1240,
+        "posY": -680,
+        "active": false,
+        "scrollFactor": [0.6, 0.6],
+        "scale": [0.5, 0.5],
+        "frames": ["sunset/BG2", "shared"]
+      },
+      {
+        "name": "mini",
+        "song": "swingex",
+        "posX": -270,
+        "posY": -90,
+        "isAnimated": true,
+        "frames": ["sunset/ex_crowd_sunset", "shared"],
+        "animations": [
+          {
+            "name": "idle",
+            "prefix": "bobidlebig",
+            "fps": 24,
+            "looped": false
+          }
+        ]
+      },
+      {
+        "name": "bg3",
+        "song": "swingex",
+        "posX": -630,
+        "posY": -330,
+        "active": false,
+        "scale": [0.8, 0.8],
+        "frames": ["sunset/BG3", "shared"]
+      }
+  ],
+  "characters": [
+    {
+      "name": "bf",
+      "posX": 961,
+      "posY": 430
+    },
+    {
+      "name": "bfex",
+      "posX": 961,
+      "posY": 430
+    },
+    {
+      "name": "gf-bob",
+      "posX": 330,
+      "posY": 80
+    },
+    {
+      "name": "gfex",
+      "posX": 330,
+      "posY": 80
+    },
+    {
+      "name": "bosip",
+      "posX": -50,
+      "posY": 39
+    },
+    {
+      "name": "bosipex",
+      "posX": -50,
+      "posY": 89
+    },
+    {
+      "name": "ronsip",
+      "posX": -50,
+      "posY": 189
+    }
+  ]
+}

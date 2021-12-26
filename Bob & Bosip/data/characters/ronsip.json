@@ -4,6 +4,7 @@
   "barColor": "#FFebdd44",
   "barIcon": "ronsip",
   "startingAnim": "idle",
+  "camFollow": [0, 200],
   "animations": [
     {
       "name": "idle",

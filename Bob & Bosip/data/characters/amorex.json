@@ -15,25 +15,25 @@
         "name": "singLEFT",
         "prefix": "amor left big",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [69, 22]
       },
       {
         "name": "singRIGHT",
         "prefix": "amor right big",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [-10, 6]
       },
       {
         "name": "singUP",
         "prefix": "amor up big",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [15, 81]
       },
       {
         "name": "singDOWN",
         "prefix": "amor down big",
         "looped": true,
-        "offsets": [0, 0]
+        "offsets": [-23, -22]
       }
     ]
   }

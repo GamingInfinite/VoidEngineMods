@@ -2,6 +2,7 @@
   "name": "GF But Bosip",
   "asset": "characters/worriedbosip",
   "barColor": "#FFebdd44",
+  "scale": 0.92,
   "startingAnim": "idle",
   "animations": [
     {

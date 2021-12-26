@@ -2,6 +2,7 @@
   "song": {
     "player1": "bf",
     "player2": "ronsip",
+    "stage": "sunset",
     "notes": [
       {
         "lengthInSteps": 16,

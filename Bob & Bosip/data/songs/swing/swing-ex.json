@@ -2,6 +2,7 @@
   "song": {
     "player1": "bfex",
     "gfVersion": "gfex",
+    "stage": "sunset",
     "notes": [
       { "sectionNotes": [], "lengthInSteps": 16, "mustHitSection": false },
       { "sectionNotes": [], "lengthInSteps": 16, "mustHitSection": false },
