@@ -1,81 +1,70 @@
 {
     "name": "Boyfriend EX",
     "asset": "characters/BoyFriend_Assets_EX",
-    "barColor": "#31B0D1",
+    "barColor": "#FF0EAEFE",
     "barIcon": "bfex",
     "flipX": true,
     "startingAnim": "idle",
     "animations": [
       {
         "name": "idle",
-        "prefix": "BF idle dance",
+        "prefix": "bf_idle_fdg instance 1",
         "offsets": [-5, 0]
       },
       {
         "name": "singUP",
-        "prefix": "BF NOTE UP0",
-        "offsets": [-29, 27]
+        "prefix": "bf_up instance 1",
+        "offsets": [25, 57]
       },
       {
         "name": "singLEFT",
-        "prefix": "BF NOTE LEFT0",
-        "offsets": [12, -6]
+        "prefix": "bf_left instance 1",
+        "offsets": [0, 0]
       },
       {
         "name": "singRIGHT",
-        "prefix": "BF NOTE RIGHT0",
-        "offsets": [-38, -7]
+        "prefix": "bf_right instance 1",
+        "offsets": [-35, 12]
       },
       {
         "name": "singDOWN",
-        "prefix": "BF NOTE DOWN0",
-        "offsets": [-10, -50]
+        "prefix": "bf_down instance 1",
+        "offsets": [-10, 76]
       },
       {
         "name": "singUPmiss",
-        "prefix": "BF NOTE UP MISS",
-        "offsets": [-29, 27]
+        "prefix": "bf_up_miss instance 1",
+        "offsets": [23, 57]
       },
       {
         "name": "singLEFTmiss",
-        "prefix": "BF NOTE LEFT MISS",
-        "offsets": [12, 24]
+        "prefix": "bf_left_miss instance 1",
+        "offsets": [-2, 1]
       },
       {
         "name": "singRIGHTmiss",
-        "prefix": "BF NOTE RIGHT MISS",
-        "offsets": [-30, 21]
+        "prefix": "bf_right_miss instance 1",
+        "offsets": [-35, 12]
       },
       {
         "name": "singDOWNmiss",
-        "prefix": "BF NOTE DOWN MISS",
-        "offsets": [-11, -19]
-      },
-      {
-        "name": "hey",
-        "prefix": "BF HEY!!",
-        "offsets": [7, 4]
+        "prefix": "bf_down_miss instance 1",
+        "offsets": [-20, 75]
       },
       {
         "name": "firstDeath",
-        "prefix": "BF dies",
-        "offsets": [37, 11]
+        "prefix": "bf_gameover_1 instance 1",
+        "offsets": [97, 158]
       },
       {
         "name": "deathLoop",
-        "prefix": "BF Dead Loop",
-        "offsets": [37, 5]
+        "prefix": "bf_gameover_2 instance 2",
+        "offsets": [97, 158]
       },
       {
         "name": "deathConfirm",
-        "prefix": "BF Dead confirm",
-        "offsets": [37, 69]
-      },
-      {
-        "name": "scared",
-        "prefix": "BF idle shaking",
-        "offsets": [-4, 0],
-        "looped": true
+        "prefix": "bf_gameover_3 instance 1",
+        "offsets": [215, 225]
       }
     ]
   }

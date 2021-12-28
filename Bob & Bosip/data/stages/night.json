@@ -1,5 +1,5 @@
 {
-  "camZoom": 0.75,
+  "camZoom": 0.05,
   "objects": [
     {
       "name": "bg1",
@@ -89,7 +89,7 @@
     {
       "name": "gfnightex",
       "posX": 700,
-      "posY": 80
+      "posY": 50
     },
     {
       "name": "amor",

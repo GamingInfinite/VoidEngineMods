@@ -1,7 +1,7 @@
 {
     "name": "Ash",
     "asset": "characters/ASH",
-    "barColor": "#FFd73c92",
+    "barColor": "#FFFFFFFF",
     "barIcon": "ash",
     "startingAnim": "idle",
     "animations": [
@@ -15,25 +15,25 @@
         "name": "singLEFT",
         "prefix": "ASH Sing Note LEFT",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [122, -74]
       },
       {
         "name": "singRIGHT",
         "prefix": "ASH Sing Note RIGHT",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [-74, -23]
       },
       {
         "name": "singUP",
         "prefix": "ASH Sing Note UP",
         "looped": false,
-        "offsets": [0, 0]
+        "offsets": [93, 41]
       },
       {
         "name": "singDOWN",
         "prefix": "ASH Sing Note DOWN",
         "looped": true,
-        "offsets": [0, 0]
+        "offsets": [-35, -93]
       }
     ]
   }

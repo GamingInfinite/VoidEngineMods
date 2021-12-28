@@ -1,39 +1,39 @@
 {
     "name": "Amor EX",
     "asset": "characters/amorex",
-    "barColor": "#FFd73c92",
+    "barColor": "#FF9E2947",
     "barIcon": "amorex",
     "startingAnim": "idle",
     "animations": [
       {
         "name": "idle",
-        "prefix": "amor idle big",
+        "prefix": "Amor idle dance",
         "looped": false,
         "offsets": [0, 0]
       },
       {
         "name": "singLEFT",
-        "prefix": "amor left big",
+        "prefix": "Amor Sing Note LEFT",
         "looped": false,
-        "offsets": [69, 22]
+        "offsets": [29, 1]
       },
       {
         "name": "singRIGHT",
-        "prefix": "amor right big",
+        "prefix": "Amor Sing Note RIGHT",
         "looped": false,
-        "offsets": [-10, 6]
+        "offsets": [-13, 12]
       },
       {
         "name": "singUP",
-        "prefix": "amor up big",
+        "prefix": "Amor Sing Note UP",
         "looped": false,
-        "offsets": [15, 81]
+        "offsets": [-5, 41]
       },
       {
         "name": "singDOWN",
-        "prefix": "amor down big",
+        "prefix": "Amor Sing Note DOWN",
         "looped": true,
-        "offsets": [-23, -22]
+        "offsets": [-28, -16]
       }
     ]
   }
