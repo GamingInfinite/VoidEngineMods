@@ -1,0 +1,48 @@
+{
+  "camZoom": 1.4,
+  "objects": [
+    {
+      "name": "sky",
+      "posX": -12,
+      "posY": -10,
+      "isAnimated": true,
+      "song": "heartbass",
+      "scrollFactor": [0.1, 0.1],
+      "frames": ["date/sky_heartbass", "shared"],
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "sky_heartbass",
+          "fps": 24,
+          "looped": false
+        }
+      ]
+    },
+    {
+      "name": "bg",
+      "song": "heartbass",
+      "posX": -185.5,
+      "posY": 220,
+      "scrollFactor": [0.2, 0.2],
+      "frames": ["date/bg_hb", "shared"],
+      "active": false
+    },
+    {
+      "name": "midg",
+      "song": "heartbass",
+      "posX": -20.5,
+      "posY": 120.1,
+      "scrollFactor": [0.5, 0.5],
+      "frames": ["date/midg", "shared"],
+      "active": false
+    },
+    {
+      "name": "farris_wheel",
+      "song": "heartbass",
+      "posX": 6.75,
+      "posY": -66.4,
+      "scrollFactor":[0.6,0.6],
+      "frames":["date/farris_wheel", "shared"]
+    }
+  ]
+}
