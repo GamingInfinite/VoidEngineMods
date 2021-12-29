@@ -41,8 +41,65 @@
       "song": "heartbass",
       "posX": 6.75,
       "posY": -66.4,
-      "scrollFactor":[0.6,0.6],
-      "frames":["date/farris_wheel", "shared"]
+      "scrollFactor": [0.6, 0.6],
+      "frames": ["date/farris_wheel", "shared"]
+    },
+    {
+      "name": "fair_gate",
+      "song": "heartbass",
+      "posX": -335.3,
+      "posY": -444.8,
+      "scrollFactor": [0.95, 0.95],
+      "frames": ["date/fair_gate", "shared"]
+    },
+    {
+      "name": "chairs",
+      "song": "heartbass",
+      "posX": 286.25,
+      "posY": 351.15,
+      "frames": ["date/chairs", "shared"]
+    },
+    {
+      "name": "backboppers",
+      "song": "heartbass",
+      "posX": 41.45,
+      "posY": -169.45,
+      "scrollFactor": [0.9, 0.9],
+      "frames": ["date/backboppers"],
+      "visible": false
+    },
+    {
+      "name": "frontboppers",
+      "song": "heartbass",
+      "posX": -54.65,
+      "posY": -59.55,
+      "scrollFactor": [0.93, 0.93],
+      "frames": ["date/frontboppers"]
+    },
+    {
+      "name": "table",
+      "song": "heartbass",
+      "posX": 409,
+      "posY": 475.25,
+      "frames":["date/table", "shared"],
+      "active": false
+    }
+  ],
+  "characters": [
+    {
+      "name": "whittyDate",
+      "posX": 409,
+      "posY": -5.75
+    },
+    {
+      "name": "carolDate",
+      "posX": 84.05,
+      "posY": -5
+    },
+    {
+      "name": "gf",
+      "posX": 0,
+      "posY": 999
     }
   ]
 }

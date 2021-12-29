@@ -1,37 +1,127 @@
 {
-    "name": "Template Character",
-    "asset": "characters/characterimagexmlfile",
-    "barColor": "#ff0000",
+    "name": "Whitty (Date Week)",
+    "asset": "characters/whitty_assets",
+    "barColor": "#1D1E36",
+    "barIcon": "whittyDate",
     "startingAnim": "idle",
     "animations": [
       {
         "name": "idle",
-        "prefix": "template idle",
-        "looped": true,
+        "prefix": "whitty idle",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "idle-alt",
+        "prefix": "whitty alt idle",
+        "looped": false,
         "offsets": [0, 0]
       },
       {
         "name": "singLEFT",
-        "prefix": "template left",
+        "prefix": "whitty left",
         "looped": true,
         "offsets": [0, 0]
       },
       {
         "name": "singRIGHT",
-        "prefix": "template right",
+        "prefix": "whitty right",
         "looped": true,
         "offsets": [0, 0]
       },
       {
         "name": "singUP",
-        "prefix": "template up",
+        "prefix": "whitty up",
         "looped": true,
         "offsets": [0, 0]
       },
       {
         "name": "singDOWN",
-        "prefix": "template left",
+        "prefix": "whitty left",
         "looped": true,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT-alt",
+        "prefix": "whitty alt left",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT-alt",
+        "prefix": "whitty alt right",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP-alt",
+        "prefix": "whitty alt up",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN-alt",
+        "prefix": "whitty alt left",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFT-dance",
+        "prefix": "whitty dance left",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHT-dance",
+        "prefix": "whitty dance right",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUP-dance",
+        "prefix": "whitty dance up",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWN-dance",
+        "prefix": "whitty dance left",
+        "looped": false,
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singUPmiss",
+        "prefix": "whitty miss up",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singLEFTmiss",
+        "prefix": "whitty miss left",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singRIGHTmiss",
+        "prefix": "whitty miss right",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "singDOWNmiss",
+        "prefix": "whitty miss down",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "firstDeath",
+        "prefix": "whitty death",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "deathLoop",
+        "prefix": "whitty death",
+        "offsets": [0, 0]
+      },
+      {
+        "name": "deathConfirm",
+        "prefix": "whitty death",
         "offsets": [0, 0]
       }
     ]

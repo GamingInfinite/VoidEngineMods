@@ -1,0 +1,109 @@
+{
+  "name": "Carol (Date Week)",
+  "asset": "characters/carol_assets",
+  "barColor": "#666699",
+  "barIcon": "carolDate",
+  "startingAnim": "idle",
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "carol idle",
+      "looped": false,
+      "indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "offsets": [0, 0]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "carol idle",
+      "looped": false,
+      "indices": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+      "offsets": [0, 0]
+    },
+    {
+      "name": "danceLeft-alt",
+      "prefix": "carol alt idle",
+      "looped": false,
+      "indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "offsets": [0, 0]
+    },
+    {
+      "name": "danceRight-alt",
+      "prefix": "carol alt idle",
+      "looped": false,
+      "indices": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "carol left",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "carol right",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "carol up",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "carol left",
+      "looped": true,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT-alt",
+      "prefix": "carol alt left",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT-alt",
+      "prefix": "carol alt right",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP-alt",
+      "prefix": "carol alt up",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN-alt",
+      "prefix": "carol alt left",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singLEFT-dance",
+      "prefix": "carol dance left",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singRIGHT-dance",
+      "prefix": "carol dance right",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singUP-dance",
+      "prefix": "carol dance up",
+      "looped": false,
+      "offsets": [0, 0]
+    },
+    {
+      "name": "singDOWN-dance",
+      "prefix": "carol dance left",
+      "looped": false,
+      "offsets": [0, 0]
+    }
+  ]
+}
